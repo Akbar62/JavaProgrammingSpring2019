@@ -37,6 +37,9 @@ public class ArraysClass {
 		
 		int[] nums3 = {4, 10, 20, 50};
 		Arrays.binarySearch(nums3, 10);
+		
+//		int[] arrz = new int[10];
+//		arrz = new int [12];
 
 	}
 
