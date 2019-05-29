@@ -40,6 +40,7 @@ public class ArraysClass {
 		
 //		int[] arrz = new int[10];
 //		arrz = new int [12];
+		//System.out.print(c);
 
 	}
 
