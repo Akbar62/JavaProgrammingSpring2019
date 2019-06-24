@@ -1,5 +1,6 @@
 package day53_inheritance06;
 
+
 public class TestHiding {
 	public static void main(String[] args) {
 		City city = new City(345, "London");
@@ -13,9 +14,11 @@ public class TestHiding {
 		
 		cap.displayCount();
 		
+		
 		// call static methods
 		city.buildARoad();
 		cap.buildARoad();
+		
 		
 		City.buildARoad();
 		Capital.buildARoad();
@@ -26,6 +29,7 @@ public class TestHiding {
 		
 		city2.letsBuildARoad(); // City
 		capital2.letsBuildARoad(); // City
+		
 	}
 
 }

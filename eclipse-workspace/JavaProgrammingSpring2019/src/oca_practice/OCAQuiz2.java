@@ -128,7 +128,7 @@ public static void main(String[] args) {
 
 				Which option can replace xxx to enable the code to print 135 ?
 				
-		 A. int e = 0;  e < 5;  e += 2                B. int e = 1;  e <= 5;  e += 1
+		 A. int e = 0;  e < 5;  e += 2 (Correct)      B. int e = 1;  e <= 5;  e += 1
 		 C. int e = 0;  e <= 4;  e++                  D. int e = 1;  e  <  5;  e +=2
 		 
 		 
@@ -146,7 +146,7 @@ public static void main(String[] args) {
 				
 				C. Its case label literals can be changed at run time.
 				
-				D. Its expression must evaluate to a single value.
+				D. Its expression must evaluate to a single value.  (Correct)
 		 
 		 
 		 */
@@ -168,7 +168,7 @@ public static void main(String[] args) {
 
 			what's the result?
 			
-			A.  Compilation fails                        B. 100
+			A.  Compilation fails   ( Correct )          B. 100
 			C. 101 										 D. 102
 			
 		 */

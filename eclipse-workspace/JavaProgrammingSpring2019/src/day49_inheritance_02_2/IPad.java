@@ -9,6 +9,12 @@ public class IPad extends Device {
 		System.out.println("Model - " + model);
 		//System.out.println("Price: " + price);
 		// not inherited, not visible
+		// default
+		
+		//System.out.println(country);
+		// not inherited, not visible
+		// private
+		
 		
 	}
 	

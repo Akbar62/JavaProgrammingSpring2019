@@ -4,6 +4,7 @@ public class AllBlocks {
 
 	int nonStaticInt = 10;
 	static int staticInt = 10;
+	int num;
 
 	static {
 		System.out.println("static block - I run first and only once");

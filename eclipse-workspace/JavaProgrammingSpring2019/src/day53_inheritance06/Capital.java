@@ -11,7 +11,7 @@ public class Capital extends City {
 		this.population = population;
 	}
 	
-	
+	// method hiding
 	public static void buildARoad() {
 		System.out.println("Capital - building a road");
 	}
