@@ -12,7 +12,9 @@ public class ReverseString {
 		}
 		
 		System.out.println(reverse);
-
+		
+//		String ak = str.substring(0, 1).toUpperCase();
+//		System.out.println(ak);
 	}
 
 }

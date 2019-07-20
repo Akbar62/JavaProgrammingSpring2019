@@ -1,6 +1,7 @@
 package day53_inheritance06;
 
-public class City {
+public class City extends Object{
+	// all classes extend Object by default
 	private int id;
 	private String name;
 	public int count = 100;
